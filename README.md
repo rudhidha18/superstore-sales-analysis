@@ -30,7 +30,7 @@ https://public.tableau.com/views/SuperstoreProfitAnalysis_17864751152920/Dashboa
 
 How AI Was Used (and Verified):
 
-AI tools were used throughout to speed up SQL query drafting, pandas/matplotlib boilerplate, and debugging (e.g., diagnosing an import error where column headers weren't detected during CSV import, and a JSON corruption issue when a notebook wasn't saved before committing). Every AI-suggested query or code block was run and checked against expected results before being trusted — for example, SQL and pandas results for "profit by sub-category" were independently cross-checked against each other and matched exactly, confirming the analysis wasn't dependent on either tool alone.
+AI tools were used throughout to speed up SQL query drafting, pandas/matplotlib boilerplate, and debugging (e.g., diagnosing an import error where column headers weren't detected during CSV import, and a JSON corruption issue when a notebook wasn't saved before committing). Every AI-suggested query or code block was run and checked against expected results before being trusted for example, SQL and pandas results for "profit by sub-category" were independently cross checked against each other and matched exactly, confirming the analysis wasn't dependent on either tool alone.
 
 Key Files
 - sql/exploration.sql : SQL exploration queries (region/sub-category/discount-band profit analysis)
