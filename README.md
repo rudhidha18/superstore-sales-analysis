@@ -35,6 +35,6 @@ AI tools were used throughout to speed up SQL query drafting, pandas/matplotlib 
 Key Files
 - sql/exploration.sql : SQL exploration queries (region/sub-category/discount-band profit analysis)
 - notebooks/01_cleaning_and_eda.ipynb : data cleaning, exploratory analysis, and visualizations
--notebooks/02_regression_model.ipynb : regression model: train/test split, evaluation, feature importance
--dashboards/ : Tableau workbook file
--images/ : chart and dashboard screenshots
+- notebooks/02_regression_model.ipynb : regression model: train/test split, evaluation, feature importance
+- dashboards/ : Tableau workbook file
+- images/ : chart and dashboard screenshots
